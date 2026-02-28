@@ -1,5 +1,3 @@
-// Signaling server for Roblox Revival Voice Chat
-// Deploy free to Railway or Render
 // npm install ws
 
 const WebSocket = require('ws');
